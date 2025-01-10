@@ -6,7 +6,7 @@ Submitted to International Journal of Audiology (10.01.2025)
 Preprint: 
 
 The following Matlab scripts contain the code used in the paper. The scripts r2_s1_preprocessing, r2_s2_sii_calc_opt, r2_s3_sii_combine, and r2_s4_srt_assumptions_v3 were conducted via remote analysis on servers of Hanover Medical School. The remaining scripts were conducted locally, based on the results of the remote analysis. 
-Results are contained for scripts s4 and s5, which are needed for the local analysis. 
+Results are contained for scripts s4 and s5, which are used for the local analysis in s5 and plots in s6. 
 
 ## 1) Remote: Preprocessing  
 r2_s1_preprocessing.m
@@ -37,14 +37,15 @@ r2l_s5_analysis.m
 - Statistical analysis 
 
 ## 6) Local: Plot scripts 
-r2l_s6_plots_fig2.m
-r2l_s6_plots_fig3.m
-r2l_s6_plots_fig4.m
-r2l_s6_plots_fig5.m  
-r2l_s6_plots_fig6.m
-r2l_s6_plots_figA1.m
+Plot scripts corresponding to the respective figure number:
+- r2l_s6_plots_fig2.m
+- r2l_s6_plots_fig3.m
+- r2l_s6_plots_fig4.m
+- r2l_s6_plots_fig5.m  
+- r2l_s6_plots_fig6.m
+- r2l_s6_plots_figA1.m
 
-Plot scripts corresponding to the respective figure number. 
+ 
 
 
 
