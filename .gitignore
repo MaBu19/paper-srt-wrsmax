@@ -1,0 +1,7 @@
+# add files to be ignored by git 
+**/.~*
+**/*~*
+figures_example/
+results_example/
+*.asv
+s2_sii
